@@ -49,8 +49,8 @@ I am a results-driven software engineer with **6+ years of experience** in build
 
 ## 📫 Let’s Connect!
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quynh-nguyen-a9271313b/)  
-- 📧 Email: [quynhlayer@gmail.com](mailto:quynhlayer@gmail.com)  
-- [![GitHub](https://i.sstatic.net/tskMh.png)(https://github.com/layer-quynh)  
+- [<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="18"> Email](mailto:quynhlayer@gmail.com)  
+- [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/layer-quynh)  
 
 ---
 ✨ *I am always open to exciting opportunities where I can contribute my expertise in backend engineering, cloud architecture, and team leadership to build impactful technology solutions.*  
