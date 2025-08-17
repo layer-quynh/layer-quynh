@@ -49,7 +49,7 @@ I am a results-driven software engineer with **6+ years of experience** in build
 
 ## 📫 Let’s Connect!
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quynh-nguyen-a9271313b/)  
-- [<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="18"> Email](mailto:quynhlayer@gmail.com)  
+- [<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="18" width="15"> Email](mailto:quynhlayer@gmail.com)  
 - [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/layer-quynh)  
 
 ---
